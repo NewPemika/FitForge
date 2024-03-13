@@ -1,6 +1,6 @@
 [
-    { "name" : "plank", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/plank.jpg"},
-    { "name" : "situp", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/situp.jpg"},
-    { "name" : "russianTwist", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/RussianTwist.jpg"},
+    { "name" : "plank", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/plank.jpg"}
+    { "name" : "situp", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/situp.jpg"}
+    { "name" : "russianTwist", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/RussianTwist.jpg"}
     { "name" : "legRise", "uri" : "https://raw.githubusercontent.com/NewPemika/FitForge/main/LegRise.jpg"}
 ]
